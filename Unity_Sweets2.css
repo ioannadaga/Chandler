@@ -1,3 +1,49 @@
-.logo {
-    height: 15%
+#logo {
+    height: auto;
+    width: 150px;
+    margin: auto;
+    padding: 10px;
+}
+
+body {
+    background-image: url("Background.png");
+    text-align: center!important;
+    margin: 10px!important;
+    margin-left: 30px;
+    margin-right: 30px
+}
+
+.mycolor {
+    background-color: #FFCAAE;
+}
+
+.navbar {
+    margin: 20px;
+
+}
+
+.bg-light {
+    background-color: #FFCAAE!important;
+}
+
+.dropdown-item {
+    background-color: #FFCAAE!important;
+}
+
+.dropdown-menu {
+    padding: 1px!important;
+}
+
+.navbar-nav {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+h5 {
+    font-size: 2rem;
+}
+
+.bd-example {
+    margin-left: 200px;
+    margin-right: 200px
 }
